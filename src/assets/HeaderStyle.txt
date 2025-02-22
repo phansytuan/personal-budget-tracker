@@ -1,0 +1,16 @@
+<!-- <style scoped>
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    margin-bottom: 30px;
+}
+
+h2 {
+    margin-left: 10px; 
+}
+
+#myLogo {
+    width: 15%;
+}
+</style> -->
